@@ -36,3 +36,4 @@ END WHILE
 
 OUTPUT answer
 ```
+A very short and simple program indeed!
