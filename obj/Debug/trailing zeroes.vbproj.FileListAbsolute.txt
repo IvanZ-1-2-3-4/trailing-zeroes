@@ -1,0 +1,11 @@
+C:\Users\Ivab\Desktop\Programs n stuffies\trailing zeroes\trailing zeroes\bin\Debug\trailing zeroes.exe.config
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\bin\Debug\trailing zeroes.exe.config
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\bin\Debug\trailing zeroes.exe
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\bin\Debug\trailing zeroes.pdb
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\bin\Debug\trailing zeroes.xml
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\trailing zeroes.vbprojResolveAssemblyReference.cache
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\trailing zeroes.vbproj.GenerateResource.Cache
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\trailing zeroes.exe
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\trailing zeroes.xml
+C:\Users\Ivab\Desktop\Programs\trailing zeroes\trailing zeroes\obj\Debug\trailing zeroes.pdb
