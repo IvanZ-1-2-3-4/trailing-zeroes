@@ -1,6 +1,7 @@
 # trailing-zeroes
-> ```trailing zeroes```
-How many zeros are there in ![](https://latex.codecogs.com/gif.latex?n%21) (n factorial = n(n-1)(n-2)...4\*3\*2\*1)?
+> ```trailing-zeroes.exe``` is the file you're looking for.  
+
+How many zeros are there in ![](https://latex.codecogs.com/gif.latex?n%21)?
 I started thinking about this puzzle when someone asked me how many trailing zeros are there in 100 factorial, which I then generalised to ![](https://latex.codecogs.com/gif.latex?n%21). This applet is just something to verify that my hypothesis was true.
 
 ------------------------------
