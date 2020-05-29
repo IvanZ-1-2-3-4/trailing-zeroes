@@ -1,6 +1,6 @@
 # trailing-zeroes
 How many zeros are there in <img src="https://render.githubusercontent.com/render/math?math=n!"> (n factorial)?
-I started thinking about this puzzle when someone asked me how many trailing zeros are there in 100 factorial, which I then generalised to <img src="https://render.githubusercontent.com/render/math?math=n!">. This applet is just something to verify that my hypothesis was true.
+I started thinking about this puzzle when someone asked me how many trailing zeros are there in 100 factorial, which I then generalised to ![](https://latex.codecogs.com/gif.latex?n%21). This applet is just something to verify that my hypothesis was true.
 
 ------------------------------
 ### Explanation
