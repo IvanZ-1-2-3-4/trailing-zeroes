@@ -1,2 +1,2 @@
 # trailing-zeroes
-How many zeros are there in $$n!$$?
+How many zeros are there in ```n!```?
