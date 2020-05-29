@@ -1,5 +1,5 @@
 # trailing-zeroes
-> ```trailing-zeroes.exe``` is the file you're looking for.  
+> ```[trailing-zeroes.exe](https://github.com/IvanZ-1-2-3-4/trailing-zeroes/blob/master/trailing-zeroes.exe)``` is the file you're looking for.  
 
 How many zeros are there in ![](https://latex.codecogs.com/gif.latex?n%21)?
 I started thinking about this puzzle when someone asked me how many trailing zeros are there in 100 factorial, which I then generalised to ![](https://latex.codecogs.com/gif.latex?n%21). This applet is just something to verify that my hypothesis was true.
