@@ -22,3 +22,17 @@ Where ![](https://latex.codecogs.com/gif.latex?MAX%3Dfloor%28log_5%28n%29%29).
   
   
 In pseudocode, this would look like:
+```
+answer = 0
+out = 0
+k = 1
+
+INPUT answer
+
+LOOP WHILE ((answer / 5 ^ k) > 1)
+    out = out + (FLOOR(answer / (5 ^ k)))
+    k = k + 1
+END WHILE
+
+OUTPUT answer
+```
