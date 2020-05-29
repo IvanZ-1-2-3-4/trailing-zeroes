@@ -16,8 +16,11 @@ So let's start counting the 5s! To begin, let's count the number of multiples of
   
   
 So finally, what we end up with to count the number of factors of 5 in a sequence of consecutive integers below ![](https://latex.codecogs.com/gif.latex?n) is the following:  
-(starting at ![](https://latex.codecogs.com/gif.latex?k%3D1))  
+(starting at ![](https://latex.codecogs.com/gif.latex?k%3D1))    
+
 ![](https://latex.codecogs.com/gif.latex?floor%28n/5%29&plus;floor%28n/5%5E2%29&plus;floor%28n/5%5E3%29...&plus;floor%28n/5%5E%7BMAX-1%7D%29&plus;floor%28n/5%5E%7BMAX%7D%29)  
+  
+  
 Where ![](https://latex.codecogs.com/gif.latex?MAX%3Dfloor%28log_5%28n%29%29).  
   
   
